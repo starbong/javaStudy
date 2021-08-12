@@ -1,4 +1,4 @@
-package P269_추상클래스;
+package JavaBook2.P269_추상클래스;
 
 abstract class Shape {  //추상클래스가 된다 draw 때문!
     int x, y;

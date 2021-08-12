@@ -1,6 +1,4 @@
-package P242;
-
-import P242.P242_Car;
+package JavaBook2.P242;
 
 public class P242_SportCar extends P242_Car {    //car 메소드를 상속받음
     boolean turbo;

@@ -1,4 +1,4 @@
-package P315_MyFrameTest;
+package JavaBook2.P315_MyFrameTest;
 
 import javax.swing.*;
 import java.awt.*;

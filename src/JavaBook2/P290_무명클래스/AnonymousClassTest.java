@@ -1,4 +1,4 @@
-package P290_무명클래스;
+package JavaBook2.P290_무명클래스;
 
 public class AnonymousClassTest {
     public static void main(String[] args) {

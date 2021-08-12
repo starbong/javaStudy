@@ -1,4 +1,4 @@
-package P340;
+package JavaBook2.P340_카드순회;
 
 import javax.swing.*;
 import java.awt.*;

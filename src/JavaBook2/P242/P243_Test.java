@@ -1,6 +1,4 @@
-package P242;
-
-import P242.P242_SportCar;
+package JavaBook2.P242;
 
 public class P243_Test {
     public static void main(String[] args) {

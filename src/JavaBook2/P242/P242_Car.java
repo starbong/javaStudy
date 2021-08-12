@@ -1,4 +1,4 @@
-package P242;
+package JavaBook2.P242;
 
 public class P242_Car {
     int speed;
